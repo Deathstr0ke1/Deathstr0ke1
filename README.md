@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Cloud Native Security.
 - 🌱 I’m currently learning [Kubernetes](https://github.com/kubernetes), [Etcd](https://github.com/etcd-io).
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,c,git,kubernetes,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,java,c,git,kubernetes,docker)](https://skillicons.dev)
 
